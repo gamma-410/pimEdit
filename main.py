@@ -4,7 +4,7 @@
 import wx
 
 
-def clickSaveButton():
+def clickSaveButton(event):
     saveFile = open(txtName.GetValue(), 'w')
     saveFile.write(text.GetValue())
     saveFile.close()
