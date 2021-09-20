@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+pim.egg-info/PKG-INFO
+pim.egg-info/SOURCES.txt
+pim.egg-info/dependency_links.txt
+pim.egg-info/entry_points.txt
+pim.egg-info/requires.txt
+pim.egg-info/top_level.txt
