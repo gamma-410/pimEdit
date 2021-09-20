@@ -2,7 +2,8 @@
 pim: CodeEditApplication
 
 ## use
-run <code>main.py</code>
+run1. <code>$ pip install -e .</code><br>
+run2. <code>$ pim</code>
 
 ## license
 copyright(c) 2021 pim by @moka.
