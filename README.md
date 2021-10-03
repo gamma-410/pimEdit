@@ -1,5 +1,5 @@
 # pim
-pim: CodeEditApplication
+pim: CodeEditApplication．
 
 ## use
 run1. <code>$ pip install -e .</code><br>
