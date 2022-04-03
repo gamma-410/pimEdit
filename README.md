@@ -6,4 +6,6 @@ run1. <code>$ pip install -e .</code><br>
 run2. <code>$ pim</code>
 
 ## license
-copyright(c) 2021 pyTodo by @gamma-410.
+MIT
+<br><br>
+Copyright 2021 dr-notes.work (@gamma-410.)
